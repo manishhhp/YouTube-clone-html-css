@@ -128,7 +128,9 @@
     height:24px;
 }
 .current-profile-icon{
-    height:32px;
+    height:28px;
+    width:28px;
+    object-fit:cover;
     border-style:none;
     border-radius:20px;
 }
@@ -147,4 +149,5 @@
     font-size:11px;
     top:-2px;
     right:-5px;
+
 }
